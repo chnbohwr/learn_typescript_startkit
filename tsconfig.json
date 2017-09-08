@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "amd",
+    "sourceMap": true,
+    "outDir": "dist/",
+    "rootDir": "src/"
+  }
+}
