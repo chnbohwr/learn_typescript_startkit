@@ -1,4 +1,6 @@
 let isDone: boolean = false;
 class Person {
-  private name: string;
+  name: string;
 }
+
+console.log(Person);
